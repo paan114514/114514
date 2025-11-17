@@ -1,0 +1,10 @@
+/* style.css */
+body {
+    margin: 0;
+    overflow: hidden; /* 隐藏滚动条 */
+}
+
+canvas {
+    display: block;
+    background-color: #111; /* 深色背景 */
+}
